@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : Fernando Raposo
 description         : >-
-                      Programação, Contato e Portfolio 🖥💻
-                      Programming, Contact and Portfolio 🖥💻
+                      Programação, Contato e Portfolio 
+                      Programming, Contact and Portfolio <br> 
+                      🖥💻
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ferfox1981/ferfox1981     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,22 +25,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Fernando Raposo
   image             : https://avatars1.githubusercontent.com/u/53412477?s=400&u=64114dd334488a1f9788155e930e60ac4ab04a58&v=4
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+#  email             : username@domain.com
+#  facebook          : your_username
+  github            : ferfox1981
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : fernando-raposo-da-camara-silva-81b569146
-  medium            : your_username
+  medium            : ferfox
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 

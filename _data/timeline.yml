@@ -1,17 +1,36 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Universidade Federal de Pernambuco (UFPE)
+  from: 2000
+  to: 2005
+  description: Graduation in Computer Science <br>
+               * <br>
+               Graduação em Ciência da Computação
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Engineer, C.E.S.A.R
+  from: 2005
+  to: 2006
+  description: I worked as tester in a Motorola project conducted by C.E.S.A.R. 
+               My job was to find ways to "brake" the phones by writing feature integration tests.
+               I was constantly in touch with the Urbana (Champaign, Illinois) team to synchronize the tests written by all of us. <br>
+               * <br>
+               Trabalhei como testador em um projeto da Motorola conduzido pelo C.E.S.A.R. 
+               Meu trabalho era encontrar formas de tentar "quebrar" os telefones escrevendo testes de integração de funcionalidades.
+               Eu estava em contato constante com a equipe de Urbana (Champaign) para sincronizar os testes escritos por todos nós.
+               
+- title: Master of Science (M.Sc), Universidade Federal de Pernambuco (UFPE)
+  from: 2006
+  to: 2008
+  description: "Master Degree in Computer Science. Area: Software Engineering, Sub-Area: Software Testing <br>
+               * <br>
+               Mestrado em Ciência da Computação. Área: Engenharia de Software, Sub-Área: Testes de Software"
+
+- title: Software Engineer, Serviço Federal de Processamento de Dados (SERPRO)
+  from: 2006
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I have been working with big batch processing in projects for the brazilian IRS (Receita Federal do Brasil). 
+               There are massive amounts of data that have to be processed as fast as you can according to complex business rules.
+               The complexity of those rules is related to tax law or revenue law that is always changing. I have also been working
+               on migrating UIs of those systems from old platforms like Oracle Forms to moderm environments like JAVA (Backend) and Angular (Frontend) deploying them on the cloud. <br>
+               * <br>
+               Eu trabalho com sistemas de processamento em batch de larga escala em projetos da Receita Federal do Brasil.
+
+               

@@ -9,3 +9,7 @@
 - name: Angular
   percentage: 80
   color: dark
+
+- name: Python
+  percentage: 70
+  color: success

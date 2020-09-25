@@ -9,8 +9,15 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 The objective of this page is to be used as a place to present myself and to provide useful information about my skills and working area.
-I haver been working with software development since 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I have been working with software development since 2004. My areas of expertise vary from software testing to Frontend, Backend (full stack) development and large scale batch processing.
+
+Besides programming, I have been teaching at a private University in the Northeast region of Brazil the courses of Computer Algorithms, Foundations of Software Engineering and Information Systems.
+
+:brazil:
+
+Olá eu sou **{{ site.author.name }}** :wave:,<br>
+O objetivo desta página é o de ser utilizada como um local para me apresentar e prover informações úteis acerca de minhas habilidades e área de trabalho.
+Tenho trabalhado com desenvolvimento de software desde 2004. Minhas áreas de conhecimento variam desde testes de software passando por desenvolvimento Back e Frontend (fukll stack) chegando até a sistemas de processamento em batch de larga escala.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
