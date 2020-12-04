@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 The objective of this page is to be used as a place to present myself and to provide useful information about my skills and working area.
-I have been working with software development since 2004. My areas of expertise vary from software testing to Frontend, Backend (full stack) development and large scale batch processing.
+I have been working with software development since 2004. My areas of expertise vary from software testing to Frontend, Backend (full-stack) development and large scale batch processing.
 
 Besides software development, I have been teaching at a private University in the Northeast region of Brazil the courses of Computer Algorithms, Foundations of Software Engineering and Information Systems.
 
@@ -17,7 +17,7 @@ Besides software development, I have been teaching at a private University in th
 
 Olá eu sou **{{ site.author.name }}** :wave:,<br>
 O objetivo desta página é o de ser utilizada como um local para me apresentar e prover informações úteis acerca de minhas habilidades e área de trabalho.
-Tenho trabalhado com desenvolvimento de software desde 2004. Minhas áreas de conhecimento variam desde testes de software passando por desenvolvimento Back e Frontend (fukll stack) chegando até a sistemas de processamento em batch de larga escala.
+Tenho trabalhado com desenvolvimento de software desde 2004. Minhas áreas de conhecimento variam desde testes de software passando por desenvolvimento Back e Frontend (full-stack) chegando até a sistemas de processamento em batch de larga escala.
 
 Além de desenvolvimento de software, tenho ministrado aulas em uma universidade privada do nordeste do Brasil. Os cursos são Algoritmos, Fundamentos de Engenharia de Software e Sistemas de Informação.
 
