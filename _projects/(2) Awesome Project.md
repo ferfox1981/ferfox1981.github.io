@@ -1,20 +1,9 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
----
-
-# The Movies Project
-
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+name: Computer Algorithm Classes
+tools: [learning, algorithms, portuguese]
+image: https://i0.wp.com/www.alphr.com/wp-content/uploads/2017/08/what_is_an_algorithm-scaled.jpg?resize=738%2C320&ssl=1
+description: 
+Este projeto contém aulas de algoritmos que eu desenvolvi no curso dos anos.
+:UK:
+This project contains Computer Algorithms classes developed by me. (In Portuguese)
+external_url: https://github.com/ferfox1981/learning-algorithms
