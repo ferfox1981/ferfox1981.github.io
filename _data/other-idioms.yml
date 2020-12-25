@@ -1,0 +1,7 @@
+- name: English
+  percentage: 90
+  color: info
+
+- name: Spanish
+  percentage: 80
+  color: success

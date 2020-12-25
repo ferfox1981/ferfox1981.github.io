@@ -13,7 +13,8 @@ I have been working with software development since 2004. My areas of expertise 
 
 Besides software development, I have been teaching at a private University in the Northeast region of Brazil the courses of Computer Algorithms, Foundations of Software Engineering and Information Systems.
 
-:brazil:
+
+🇧🇷
 
 Olá eu sou **{{ site.author.name }}** :wave:,<br>
 O objetivo desta página é o de ser utilizada como um local para me apresentar e prover informações úteis acerca de minhas habilidades e área de trabalho.
@@ -28,4 +29,11 @@ Além de desenvolvimento de software, tenho ministrado aulas em uma universidade
 
 <div class="row">
 {% include about/timeline.html %}
+</div>
+
+<br/>
+
+
+<div class="row">
+{% include about/skills.html title="Other Idioms :uk: :es:" source=site.data.other-idioms %}
 </div>
