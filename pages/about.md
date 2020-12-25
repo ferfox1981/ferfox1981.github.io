@@ -35,5 +35,5 @@ Além de desenvolvimento de software, tenho ministrado aulas em uma universidade
 
 
 <div class="row">
-{% include about/skills.html title="Other Idioms :uk: :es:" source=site.data.other-idioms %}
+{% include about/skills.html title="Other Languages :uk: :es:" source=site.data.other-languages %}
 </div>
