@@ -27,11 +27,11 @@ author:
   image             : https://avatars1.githubusercontent.com/u/53412477?s=400&u=64114dd334488a1f9788155e930e60ac4ab04a58&v=4
 #  behance           : your_username
 # dribbble          : your_username
-#  email             : username@domain.com
+#  email             : ferfox@gmail.com
 #  facebook          : your_username
   github            : ferfox1981
 # gitlab            : your_username
-# instagram         : your_username
+# instagram         : ferfox1981
 # kaggle            : your_username
   linkedin          : fernando-raposo-da-camara-silva-81b569146
   medium            : ferfox
@@ -43,7 +43,7 @@ author:
 #  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
-
+  devto             : ferfox1981
 
 ### Posts ###
 permalink: /blog/:title
