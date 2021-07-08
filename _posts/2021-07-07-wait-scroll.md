@@ -2,7 +2,7 @@
 title: Scrolling to an Element Only After It Appears using Angular
 tags: [angular, html, dom]
 style: fill
-color: secondary
+color: warning
 description: Scrolling to an Element Only After It Appears using Angular
 ---
 
